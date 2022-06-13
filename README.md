@@ -4,13 +4,18 @@
 <div align=center>
   Techs that I've used at least once<br>
   <br>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/-Spring-%236DB33F?logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Oracle-%23F80000?logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Django-%23092E20?logo=Django&logoColor=white" />
   <img src="https://img.shields.io/badge/-Elasticsearch-%23005571?logo=ElasticSearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Oracle-%23F80000?logo=Oracle&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Bootstrap-%237952B3?logo=Bootstrap&logoColor=white"/>      
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white"/>     
-  <img src="https://img.shields.io/badge/-HTML-%23E34F26?logo=HTML5&logoColor=white"/>     
+  <img src="https://img.shields.io/badge/-HTML-%23E34F26?logo=HTML5&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/-CSS-%231572B6?logo=CSS3&logoColor=white"/>       
 </div>
 <br>
