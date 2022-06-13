@@ -1,16 +1,33 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome%20to%20my%20Github👋&fontSize=60)
 
-<!--
-**codingzzang123/codingzzang123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align=center>:computer: My Tech-Stack :computer:</h2>
+<div align=center>
+  Techs that I've used at least once<br>
+  <br>
+  <img src="https://img.shields.io/badge/-Django-%23092E20?logo=Django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Elasticsearch-%23005571?logo=ElasticSearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Oracle-%23F80000?logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-%237952B3?logo=Bootstrap&logoColor=white"/>      
+  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white"/>     
+  <img src="https://img.shields.io/badge/-HTML-%23E34F26?logo=HTML5&logoColor=white"/>     
+  <img src="https://img.shields.io/badge/-CSS-%231572B6?logo=CSS3&logoColor=white"/>       
+</div>
+<br>
+<br>
+<br>
+<h2 align=center>:hatched_chick: Contact :hatched_chick:</h2>
+<div align=center>
+  <img src="https://img.shields.io/badge/-Email-%23EA4335?logo=Gmail&logoColor=white"/>      
+</div>
+<br>
+<br>
+<br>
+<h2 align=center>:hatched_chick: Trophy ! :hatched_chick:</h2>
+<div align=center>
+  <img src='https://github-profile-trophy.vercel.app/?username=codingzzang123' />
+</div>
+<br><br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Yejin's github stats](https://github-readme-stats.vercel.app/api?username=codingzzang123&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingzzang123&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
