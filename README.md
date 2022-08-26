@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I can sleep more than 12 hours straight, But I can't do that.<br><br>
 
 
-### 🛠 Languages and Tools
+### 🛠 Languages and Tools..
 <p align="left">
 <img src="https://img.shields.io/badge/java-007396?logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/-Spring-%236DB33F?logo=Spring&logoColor=white"/>
