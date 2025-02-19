@@ -2,8 +2,7 @@
 
 
 
-### ❤ 
-#### Liebestraum  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hosun9752@gmail.com)](mailto:hosun9752@gmail.com)  
+### ❤ Liebestraum  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hosun9752@gmail.com)](mailto:hosun9752@gmail.com)  
 
 <br><br>
 
@@ -15,7 +14,7 @@
   <img src="https://img.shields.io/badge/github-181717?&logo=github&logoColor=white">
 </p>
 
-<br><br>
+<br>
 
 ### 📝 Workspace
 <p>
@@ -26,11 +25,6 @@
   <img src='https://github-profile-trophy.vercel.app/?username=codingzzang123' />
 </div>
 </p>
-
-<br><br>
-
-### 🎖️ Tier
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sn0441)](https://www.acmicpc.net/user/sn0441)
 
 
 
